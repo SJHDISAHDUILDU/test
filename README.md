@@ -1,0 +1,2 @@
+# test
+minkajd server gtetst 

@@ -1,0 +1,4 @@
+[02:22:03] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[02:22:03] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE darkwaters 0.0.22 {depends fabric @ [*]}, ROOT_FORCELOAD_SINGLE darkwaters 0.0.22]
+[02:22:03] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP darkwaters 0.0.22 {depends fabric @ [*]}, HARD_DEP darkwaters 0.0.22 {depends smartbrainlib @ [>=1.12]}]
+[02:22:03] [INFO] [FabricLoader/Resolution]: Fix: add [add:fabric 1 ([(-∞,∞)]), add:smartbrainlib 1.12 ([[1.12,∞)])], remove [], replace []
